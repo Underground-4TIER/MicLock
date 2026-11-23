@@ -1,7 +1,7 @@
 {
-  "version": "2.6.9",
-  "url": "https://raw.githubusercontent.com/Underground-4TIER/MicLock/main/releases/2.6.9/MicLock.exe",
-  "sha256": "b88ae5f7ccd79ff7f478a9256d0de67195394c4bf7fbf90b4406747fc6cb4e28",
-  "size": 11358119,
-  "notes": "ปุ่มลัด Ctrl+Alt+L เปิด/ปิดล็อกไมค์ (ติ๊กเปิดเองในกล่อง «ค่าที่ต้องการล็อก») · ช่องติ๊กเปิด/ปิดการล็อก · ก ต จ ส ชัดแม้พูดเบา"
+  "version": "2.6.10",
+  "url": "https://raw.githubusercontent.com/Underground-4TIER/MicLock/main/releases/2.6.10/MicLock.exe",
+  "sha256": "98fa210bdf1a7651b7f88963fc28bcc7e92726618ce5584ef3d69b5261c22821",
+  "size": 11358126,
+  "notes": "แก้เสียงสะท้อน/ก้องเยอะเกินไป · ก ต จ ส ยังชัด · ปุ่มลัด Ctrl+Alt+L ล็อกไมค์"
 }
