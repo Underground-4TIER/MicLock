@@ -1,7 +1,7 @@
 {
-  "version": "2.6.4",
-  "url": "https://raw.githubusercontent.com/Underground-4TIER/MicLock/main/releases/2.6.4/MicLock.exe",
-  "sha256": "436dd8592405560033282d544dcfebdbfcca0d1a6271cf0694d4f1d236de3509",
-  "size": 11353072,
-  "notes": "ปุ่มเช็คอัปเดต · แก้ไมค์ตัดกลางคำ · ก/ต ชัดขึ้น · ร กระดกลิ้นชัด"
+  "version": "2.6.7",
+  "url": "https://raw.githubusercontent.com/Underground-4TIER/MicLock/main/releases/2.6.7/MicLock.exe",
+  "sha256": "fb4178d75c906da10c002e07c222371212b1f5413a1a8959924779db70f35c1c",
+  "size": 11354609,
+  "notes": "เปิด/ปิดล็อกระดับเสียงไมค์จากไอคอนข้างนาฬิกา · ก ต จ ส ชัดแม้พูดเบา · แก้เสียงเร่งกระตุก"
 }
