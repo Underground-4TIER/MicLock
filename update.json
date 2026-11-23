@@ -1,7 +1,7 @@
 {
-  "version": "2.6.7",
-  "url": "https://raw.githubusercontent.com/Underground-4TIER/MicLock/main/releases/2.6.7/MicLock.exe",
-  "sha256": "fb4178d75c906da10c002e07c222371212b1f5413a1a8959924779db70f35c1c",
-  "size": 11354609,
-  "notes": "เปิด/ปิดล็อกระดับเสียงไมค์จากไอคอนข้างนาฬิกา · ก ต จ ส ชัดแม้พูดเบา · แก้เสียงเร่งกระตุก"
+  "version": "2.6.8",
+  "url": "https://raw.githubusercontent.com/Underground-4TIER/MicLock/main/releases/2.6.8/MicLock.exe",
+  "sha256": "83ee0d917c16c2c8f82b080fc956340372dbb87235f87631691c785ce141161b",
+  "size": 11356421,
+  "notes": "ช่องติ๊กเปิด/ปิดการล็อกไมค์ในกล่อง «ค่าที่ต้องการล็อก» · เปิด/ปิดล็อกจากไอคอนข้างนาฬิกา · ก ต จ ส ชัดแม้พูดเบา"
 }
