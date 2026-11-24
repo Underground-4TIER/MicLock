@@ -1,7 +1,7 @@
 {
-  "version": "2.6.10",
-  "url": "https://raw.githubusercontent.com/Underground-4TIER/MicLock/main/releases/2.6.10/MicLock.exe",
-  "sha256": "98fa210bdf1a7651b7f88963fc28bcc7e92726618ce5584ef3d69b5261c22821",
-  "size": 11358126,
-  "notes": "แก้เสียงสะท้อน/ก้องเยอะเกินไป · ก ต จ ส ยังชัด · ปุ่มลัด Ctrl+Alt+L ล็อกไมค์"
+  "version": "2.6.11",
+  "url": "https://raw.githubusercontent.com/Underground-4TIER/MicLock/main/releases/2.6.11/MicLock.exe",
+  "sha256": "928df71cde9619aea662ac1580748faf3af35a52dfc10ddfcf985f331b133e9f",
+  "size": 11363760,
+  "notes": "ช่องติ๊กใหม่ «ดีเลย์ต่ำ» (x1.1–x1.5): เสียงที่เร่งออกเร็วขึ้นราวครึ่งหนึ่ง ความเร็วเท่าเดิม แลกกับช่องว่างระหว่างคำยาวขึ้นนิดหน่อย · ปิดไว้ ติ๊กเปิดเองที่กล่องเร่งความเร็วเสียง"
 }
